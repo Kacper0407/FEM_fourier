@@ -1,0 +1,19 @@
+﻿  MES_Project.cpp
+C:\Users\Kacper\Documents\CODING\Studies\MES (sem 5)\MES_Project\MES_Project\MES_Project.cpp(27,29): warning C4101: "buf2": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Kacper\Documents\CODING\Studies\MES (sem 5)\MES_Project\MES_Project\MES_Project.cpp(461,24): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+C:\Users\Kacper\Documents\CODING\Studies\MES (sem 5)\MES_Project\MES_Project\MES_Project.cpp(462,23): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+C:\Users\Kacper\Documents\CODING\Studies\MES (sem 5)\MES_Project\MES_Project\MES_Project.cpp(463,23): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+C:\Users\Kacper\Documents\CODING\Studies\MES (sem 5)\MES_Project\MES_Project\MES_Project.cpp(538,39): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+C:\Users\Kacper\Documents\CODING\Studies\MES (sem 5)\MES_Project\MES_Project\MES_Project.cpp(539,39): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+C:\Users\Kacper\Documents\CODING\Studies\MES (sem 5)\MES_Project\MES_Project\MES_Project.cpp(540,29): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+C:\Users\Kacper\Documents\CODING\Studies\MES (sem 5)\MES_Project\MES_Project\MES_Project.cpp(541,29): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+C:\Users\Kacper\Documents\CODING\Studies\MES (sem 5)\MES_Project\MES_Project\MES_Project.cpp(542,26): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+C:\Users\Kacper\Documents\CODING\Studies\MES (sem 5)\MES_Project\MES_Project\MES_Project.cpp(718,20): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kacper\Documents\CODING\Studies\MES (sem 5)\MES_Project\MES_Project\MES_Project.cpp(719,20): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kacper\Documents\CODING\Studies\MES (sem 5)\MES_Project\MES_Project\MES_Project.cpp(724,22): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kacper\Documents\CODING\Studies\MES (sem 5)\MES_Project\MES_Project\MES_Project.cpp(727,22): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kacper\Documents\CODING\Studies\MES (sem 5)\MES_Project\MES_Project\MES_Project.cpp(1101,12): warning C4305: "return": obcięcie z "int" do "bool"
+C:\Users\Kacper\Documents\CODING\Studies\MES (sem 5)\MES_Project\MES_Project\MES_Project.cpp(919,10): warning C4101: "element": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Kacper\Documents\CODING\Studies\MES (sem 5)\MES_Project\MES_Project\MES_Project.cpp(90): warning C4715: "PochodnaEta”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Kacper\Documents\CODING\Studies\MES (sem 5)\MES_Project\MES_Project\MES_Project.cpp(69): warning C4715: "PochodnaKsi”: niewszystkie ścieżki kodu zwracają wartość
+  MES_Project.vcxproj -> C:\Users\Kacper\Documents\CODING\Studies\MES (sem 5)\MES_Project\x64\Debug\MES_Project.exe
